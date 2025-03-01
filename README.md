@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InnerLink
 
 **InnerLink** is a secure and private journaling and note-linking application designed especially for individuals facing the challenges of complex PTSD and dissociative disorders. It provides a safe space to capture and explore the multifaceted nature of one's inner world.
@@ -29,3 +30,4 @@ InnerLink is more than just a digital journal—it is a tool for self-discovery 
   InnerLink is built with your privacy and security in mind. It is designed to be a non-judgmental space where you can freely express and document your inner experiences, paving the way for personal growth and healing.
 
 InnerLink is here to empower you on your journey to understanding and uniting your inner self, one note at a time.
+=======
